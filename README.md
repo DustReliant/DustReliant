@@ -18,7 +18,7 @@
 </style>
 
 <div class="scrolling-text">
-   ### <font color="red">业精于勤，荒于嬉；行成于思，毁于随。</font>
+业精于勤，荒于嬉；行成于思，毁于随。
 </div>
 
 
