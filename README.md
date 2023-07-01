@@ -1,6 +1,6 @@
-### Hi there 👋 ，欢迎来到“依尘骇客”的主页！
+### Hi there 👋 ，欢迎来到 Dust 的主页！
 
-### 业精于勤，荒于嬉；行成于思，毁于随。
+### <font color="red">业精于勤，荒于嬉；行成于思，毁于随。</font>
 
 ![](https://komarev.com/ghpvc/?username=1619513467&color=brightgreen)
 
