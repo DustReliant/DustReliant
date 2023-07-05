@@ -1,25 +1,8 @@
 ### Hi there 👋 ，欢迎来到 Dust 的主页！
 
-<style>
-    .scrolling-text {
-        white-space: nowrap;
-        overflow: hidden;
-        animation: scroll-left 10s linear infinite;
-    }
 
-    @keyframes scroll-left {
-        0% {
-            transform: translateX(0%);
-        }
-        100% {
-            transform: translateX(-100%);
-        }
-    }
-</style>
+### 业精于勤，荒于嬉；行成于思，毁于随。
 
-<div class="scrolling-text">
-业精于勤，荒于嬉；行成于思，毁于随。
-</div>
 
 
 ![](https://komarev.com/ghpvc/?username=1619513467&color=brightgreen)
