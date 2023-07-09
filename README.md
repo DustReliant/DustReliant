@@ -1,7 +1,7 @@
 ### Hi there 👋 ，欢迎来到 Dust 的主页！
 
 
-<div><span style="color: #ff0000">业</span><span style="color: #ff2a00">精</span><span style="color: #ff5500">于</span><span style="color: #ff7f00">勤</span><span style="color: #ff9f00">,</span><span style="color: #ffbf00">荒</span><span style="color: #ffdf00">于</span><span style="color: #ffff00">嬉</span><span style="color: #aaff00">;</span><span style="color: #55ff00">行</span><span style="color: #00ff00">成</span><span style="color: #00ff40">于</span><span style="color: #00ff80">思</span><span style="color: #00ffbf">,</span><span style="color: #00ffff">毁</span><span style="color: #00aaff">于</span><span style="color: #0055ff">随</span><span style="color: #0000ff">.</span></div>
+### 业精于勤，荒于嬉；行成于思，毁于随。
 
 
 
